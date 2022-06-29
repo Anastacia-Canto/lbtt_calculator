@@ -1,6 +1,6 @@
 # lbtt_calculator
 
-<img src="https://img.shields.io/badge/JavaScript-_-7FFF00"> <img src="https://img.shields.io/badge/Node-_-7FFF00"> <img src="https://img.shields.io/badge/Jest-_-7FFF00">
+<img src="https://img.shields.io/badge/JavaScript-_-7FFF00"> <img src="https://img.shields.io/badge/Node.JS-_-7FFF00"> <img src="https://img.shields.io/badge/Jest-_-7FFF00">
 
 "Land and Buildings Transaction Tax (LBTT) is a tax applied to residential and commercial land and buildings transactions where a chargeable interest is acquired.
 LBTT replaced UK Stamp Duty Land Tax (SDLT) in Scotland from 1 April 2015. 
