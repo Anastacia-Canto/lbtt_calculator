@@ -18,3 +18,13 @@ The project was developed in JavaScript, Node.JS and using Jest to Unit Tests.
 
 There are a lot of online LBTT calculators that you can use to compare the results. 
 Suggestion: https://revenue.scot/calculate-tax/calculate-property-transactions#calculator
+
+# Instructions
+
+To calculate the total tax:
+
+> node lbtt.js [value]
+
+To run the unit tests:
+
+> npm test
