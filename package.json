@@ -1,0 +1,13 @@
+{
+  "name": "lbtt",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "program to calculate tax values on according to Land and Buildings Transaction Tax (LBTT) parameters",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  },
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  }  
+}
+
