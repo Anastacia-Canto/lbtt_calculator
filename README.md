@@ -21,6 +21,10 @@ Suggestion: https://revenue.scot/calculate-tax/calculate-property-transactions#c
 
 # Instructions
 
+To clone the project:
+
+> git clone https://github.com/Anastacia-Canto/lbtt_calculator.git
+
 To calculate the total tax:
 
 > node lbtt.js [value]
